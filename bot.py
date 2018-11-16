@@ -1,6 +1,6 @@
+#! /usr/bin/env python
 #(c) 2018 github.com/nobody246 nothing that happens from this software is my liability, enjoy
 
-#! /usr/bin/env python
 import pyaudio
 import wave
 import numpy as np
