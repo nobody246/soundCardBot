@@ -1,3 +1,3 @@
 # soundCardBot
 ...
-Same idea as prankCallOTron5000 but using python and the soundcard, and it's independent of asterisk.
+Same idea as prankCallOTron5000 but using python and the soundcard, it's independent of asterisk.
