@@ -12,7 +12,7 @@ import subprocess
 import random
 
 #TODO make args
-soundFilePath = '/location/of/your/characters/mp3/files/'
+soundFilePath = '/location/of/your/characters/wav/files/'
 pitchMin = 80
 pitchMax = 230
 exitWhenFilesDone = False
